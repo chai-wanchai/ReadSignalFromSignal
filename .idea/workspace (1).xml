@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="171fc09a-320c-46d2-91a1-5fb533b36996" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/!!##Model/ExtraTree.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/!!##Model/TreeRegress.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/!!##Preprocess/ReadEDF.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ListFile.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ReadLargeCSV.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestParameter/testPara.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/WriteExcelResult.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/multiprocess.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testProgram/Analysis.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testProgram/ListFileFromPath.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CSVTest.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CheckSamplingRate.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SignalEpoch30s.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/edf/shhs2-200077.edf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/edf/shhs2-200078.edf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/readFileEDF.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/readFileEDF.py.bak" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/readFileEDF2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/readFileEDF2.py.bak" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shhs1/shhs1-200001.edf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shhs1/shhs1-200002.edf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shhs2-200078.edf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test.py.bak" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/writeCSV.py" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.py" afterPath="$PROJECT_DIR$/test.py" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="TestRandomTestset.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ALL in One/TestRandomTestset.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RunEachPerson.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/!!##Model/RunEachPerson.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="274">
+              <caret line="380" column="9" lean-forward="true" selection-start-line="380" selection-start-column="9" selection-end-line="380" selection-end-column="9" />
+              <folding>
+                <element signature="e#0#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="AUTO_COMMIT_ON_CHERRY_PICK" value="true" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/EDFread+SleepStageFromeXML.py" />
+        <option value="$PROJECT_DIR$/EDFnormalization.py" />
+        <option value="$PROJECT_DIR$/testProgram/normalization.py" />
+        <option value="$PROJECT_DIR$/testProgram/CONVERT.py" />
+        <option value="$PROJECT_DIR$/testProgram/CSVTest.py" />
+        <option value="$PROJECT_DIR$/ConvertLongColumnToShortColumn_separateByEpoch.py" />
+        <option value="$PROJECT_DIR$/Script Process/NewEDFnormalization.py" />
+        <option value="$PROJECT_DIR$/!!##Script Process/NewEDFunnormalization.py" />
+        <option value="$PROJECT_DIR$/SynwithGoogle.py" />
+        <option value="$PROJECT_DIR$/testProgram/GeneralUse/Tsy.py" />
+        <option value="$PROJECT_DIR$/testProgram/GeneralUse/__init__.py" />
+        <option value="$PROJECT_DIR$/testProgram/Analysis.py" />
+        <option value="$PROJECT_DIR$/testProgram/ListFileFromPath.py" />
+        <option value="$PROJECT_DIR$/../desision tree v2/test_tree.py" />
+        <option value="$PROJECT_DIR$/testProgram/Tree.py" />
+        <option value="$PROJECT_DIR$/SVM.py" />
+        <option value="$PROJECT_DIR$/!!##Script Process/!!!PrepareFileToProcess.py" />
+        <option value="$PROJECT_DIR$/ReadLargeCSV.py" />
+        <option value="$PROJECT_DIR$/multiprocess.py" />
+        <option value="$PROJECT_DIR$/SleepAnalysisALL[preprocess,model,result].py" />
+        <option value="$PROJECT_DIR$/ALL in One/SleepAnalysisALL[preprocess,model,result].py" />
+        <option value="$PROJECT_DIR$/ALL in One/TestRandomTestset.py" />
+        <option value="$PROJECT_DIR$/!!##Model/RunEachPerson.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="5" />
+    <option name="y" value="-8" />
+    <option name="width" value="1026" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyInterpreterInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="edf" type="b2602c69:ProjectViewProjectNode" />
+              <item name="edf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="edf" type="b2602c69:ProjectViewProjectNode" />
+              <item name="edf" type="462c0819:PsiDirectoryNode" />
+              <item name="ALL in One" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\I AM CHAI\Google Drive\1_2560 (1)\308- Project2\edf" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.ReadLargeCSV">
+    <configuration name="ListFileFromPath" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testProgram" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="edf" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testProgram/ListFileFromPath.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="ReadLargeCSV" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="edf" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ReadLargeCSV.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="SVM" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="edf" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SVM.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="Tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testProgram" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="edf" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testProgram/Tree.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="test_tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../desision tree v2" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="edf" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../desision tree v2/test_tree.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.test_tree" />
+      <item index="1" class="java.lang.String" itemvalue="Python.ListFileFromPath" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Tree" />
+      <item index="3" class="java.lang.String" itemvalue="Python.SVM" />
+      <item index="4" class="java.lang.String" itemvalue="Python.ReadLargeCSV" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.ReadLargeCSV" />
+        <item index="1" class="java.lang.String" itemvalue="Python.SVM" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Tree" />
+        <item index="3" class="java.lang.String" itemvalue="Python.test_tree" />
+        <item index="4" class="java.lang.String" itemvalue="Python.ListFileFromPath" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="171fc09a-320c-46d2-91a1-5fb533b36996" name="Default" comment="" />
+      <created>1505803509483</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1505803509483</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24357034" sideWeight="0.44047618" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.505295" sideWeight="0.5595238" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4319728" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15658094" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32993197" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="8" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="df" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/testProgram/normalization.py" />
+    <entry file="file://$PROJECT_DIR$/EDFread+SleepStageFromeXML.py" />
+    <entry file="file://$PROJECT_DIR$/tranposeData.py" />
+    <entry file="file://$PROJECT_DIR$/testProgram/normalization.py" />
+    <entry file="file://$PROJECT_DIR$/EDFread+SleepStageFromeXML.py" />
+    <entry file="file://$PROJECT_DIR$/tranposeData.py" />
+    <entry file="file://$PROJECT_DIR$/testProgram/normalization.py" />
+    <entry file="file://$PROJECT_DIR$/EDFread+SleepStageFromeXML.py" />
+    <entry file="file://$PROJECT_DIR$/tranposeData.py" />
+    <entry file="file://$PROJECT_DIR$/testProgram/normalization.py" />
+    <entry file="file://$PROJECT_DIR$/EDFread+SleepStageFromeXML.py" />
+    <entry file="file://$PROJECT_DIR$/tranposeData.py" />
+    <entry file="file://$PROJECT_DIR$/testProgram/normalization.py" />
+    <entry file="file://$PROJECT_DIR$/EDFnormalization.py" />
+    <entry file="file://$PROJECT_DIR$/EDFread+SleepStageFromeXML.py" />
+    <entry file="file://$PROJECT_DIR$/tranposeData.py" />
+    <entry file="file://$PROJECT_DIR$/testProgram/normalization.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/pandas/io/parsers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="389" column="0" lean-forward="false" selection-start-line="389" selection-start-column="0" selection-end-line="389" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/pandas/io/common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="272" column="0" lean-forward="false" selection-start-line="272" selection-start-column="0" selection-end-line="272" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/pandas/core/internals.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="2869" column="0" lean-forward="false" selection-start-line="2869" selection-start-column="0" selection-end-line="2869" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/ide/ide-scripting.js" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/pandas/core/generic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="3252" column="0" lean-forward="false" selection-start-line="3252" selection-start-column="0" selection-end-line="3252" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testProgram/CheckSamplingRate.py" />
+    <entry file="file://$PROJECT_DIR$/testProgram/CSVTest.py" />
+    <entry file="file://$PROJECT_DIR$/testProgram/CONVERT.py" />
+    <entry file="file://$PROJECT_DIR$/Script Process/tranposeData.py" />
+    <entry file="file://$PROJECT_DIR$/ConvertLongColumnToShortColumn_separateByEpoch.py" />
+    <entry file="file://$PROJECT_DIR$/Script Process/EDFnormalization.py" />
+    <entry file="file://$PROJECT_DIR$/Script Process/EDFread+SleepStageFromeXML.py" />
+    <entry file="file://$PROJECT_DIR$/Script Process/NewEDFnormalization.py" />
+    <entry file="file://$PROJECT_DIR$/!!##Script Process/NewEDFunnormalization.py" />
+    <entry file="file://$PROJECT_DIR$/testProgram/GeneralUse/Tsy.py" />
+    <entry file="file://$PROJECT_DIR$/testProgram/GeneralUse/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/SynwithGoogle.py" />
+    <entry file="file://$PROJECT_DIR$/testProgram/Output.txt" />
+    <entry file="file://$PROJECT_DIR$/testProgram/fff.csv" />
+    <entry file="file://$PROJECT_DIR$/testProgram/ListFileFromPath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="17" lean-forward="false" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testProgram/Tree.py" />
+    <entry file="file://$PROJECT_DIR$/SVM.py" />
+    <entry file="file://$PROJECT_DIR$/../desision tree v2/test_tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="526">
+          <caret line="96" column="47" lean-forward="false" selection-start-line="96" selection-start-column="47" selection-end-line="96" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testProgram/Analysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/!!##Script Process/!!!PrepareFileToProcess.py" />
+    <entry file="file://$PROJECT_DIR$/NearestNeighbor.py" />
+    <entry file="file://$PROJECT_DIR$/ReadLargeCSV.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="13" column="34" lean-forward="false" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VotingClassifier.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Model.py" />
+    <entry file="file://$PROJECT_DIR$/SleepAnalysisALL[preprocess,model,result].py" />
+    <entry file="file://$PROJECT_DIR$/ALL in One/SleepAnalysisALL[preprocess,model,result].py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="12" lean-forward="true" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/multiprocess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ALL in One/TestRandomTestset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/!!##Model/RunEachPerson.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="380" column="9" lean-forward="true" selection-start-line="380" selection-start-column="9" selection-end-line="380" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
